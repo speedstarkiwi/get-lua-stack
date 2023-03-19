@@ -1,6 +1,8 @@
-# get-lua-stack-top
+# get-lua-stack-top base
 
 Simply grabs the `top` stack or offset from the `lua_State` with the power of `pushnumber` and `gettop`.
+
+It also grabs `base` as well.
 
 # how does it work?
 
