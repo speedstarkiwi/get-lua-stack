@@ -9,3 +9,7 @@ We push 3 numbers using the PushNumber function onto stack and then we use `lua_
 # what can this be used for?
 
 literally...nothing.......except..for...nothing..
+
+# what does it return?
+
+both lua state base and lua state top stack.
